@@ -6,7 +6,7 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ksugo-s-yiGhKNfF-aYe-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="ksugo-s-yiGhKNfF-aYe-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="360" as="sourcePoint" />
+            <mxPoint x="360" y="360" as="sourcePoint" />
             <mxPoint x="280" y="80" as="targetPoint" />
             <Array as="points">
               <mxPoint x="320" y="360" />
@@ -117,7 +117,7 @@
           <mxGeometry x="680" y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="W2DzFtJXZfHJN2l_coFS-13" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;flipH=1;size=30;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="40" y="150" width="40" height="150" as="geometry" />
+          <mxGeometry x="140" y="340" width="40" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
