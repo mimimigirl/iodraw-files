@@ -42,7 +42,7 @@
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Stage3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A50040;fontColor=#ffffff;fillColor=#d80073;" vertex="1" parent="1">
           <mxGeometry x="560" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-24" value="Stage4" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A50040;fontColor=#ffffff;fillColor=#d80073;" vertex="1" parent="1">
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Stage4&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A50040;fontColor=#ffffff;fillColor=#d80073;" vertex="1" parent="1">
           <mxGeometry x="700" y="140" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-25" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontColor=#393C56;fillColor=#F2CC8F;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zt8ZiUKbKBgDhXbs09eN-20" target="Zt8ZiUKbKBgDhXbs09eN-22">
@@ -80,6 +80,9 @@
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DCT&lt;/font&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;Block&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="700" y="340" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-36" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
