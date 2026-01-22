@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-19" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-30" width="600" height="50" as="geometry" />
+          <mxGeometry x="290" y="-30" width="480" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A50040;fontColor=#ffffff;fillColor=#d80073;" vertex="1" parent="1">
           <mxGeometry x="280" y="50" width="100" height="60" as="geometry" />
