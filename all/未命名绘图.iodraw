@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="baNvvrofu7VXp1b8yMFR">
-    <mxGraphModel dx="1554" dy="2022" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,8 +30,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-19" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="300" y="-20" width="480" height="50" as="geometry" />
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-19" value="一个多尺度空间-频率特征互补网络" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;align=left;" vertex="1" parent="1">
+          <mxGeometry x="295" y="60" width="480" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Stage1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#A50040;fontColor=#ffffff;fillColor=#d80073;" vertex="1" parent="1">
           <mxGeometry x="270" y="140" width="100" height="60" as="geometry" />
