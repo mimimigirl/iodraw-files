@@ -120,7 +120,7 @@
         <mxCell id="W2DzFtJXZfHJN2l_coFS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="490" width="5" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="W2DzFtJXZfHJN2l_coFS-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;" vertex="1" parent="1">
+        <mxCell id="W2DzFtJXZfHJN2l_coFS-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=north;" vertex="1" parent="1">
           <mxGeometry x="810" y="600" width="110" height="130" as="geometry" />
         </mxCell>
       </root>
