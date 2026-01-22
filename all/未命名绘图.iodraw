@@ -153,8 +153,8 @@
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-56" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="320" width="310" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-57" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="585" y="538" width="50" height="30" as="geometry" />
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-57" value="频谱特征精炼网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="515" y="430" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
