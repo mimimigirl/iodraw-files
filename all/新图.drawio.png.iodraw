@@ -169,6 +169,9 @@
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-76" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-77" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#36393d;fillColor=#ffcc99;flipH=1;flipV=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="180" width="20" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
