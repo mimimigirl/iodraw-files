@@ -181,12 +181,6 @@
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-97" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;flipH=1;flipV=0;direction=north;" vertex="1" parent="1">
           <mxGeometry x="-70" y="140" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-100" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;exitX=0.375;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.667;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Zt8ZiUKbKBgDhXbs09eN-62" target="Zt8ZiUKbKBgDhXbs09eN-73">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="380" as="sourcePoint" />
-            <mxPoint x="440" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-101" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;entryX=0.667;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Zt8ZiUKbKBgDhXbs09eN-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-150" y="240" as="sourcePoint" />
