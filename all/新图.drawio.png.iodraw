@@ -187,6 +187,12 @@
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-82" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#36393d;fillColor=#ffcc99;flipH=1;flipV=0;direction=north;" vertex="1" parent="1">
           <mxGeometry x="-180" y="340" width="20" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-83" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#36393d;fillColor=#ffcc99;flipH=1;flipV=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="280" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-84" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#36393d;fillColor=#ffcc99;flipH=1;flipV=0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="460" width="20" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
