@@ -168,14 +168,8 @@
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-63" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#36393d;fillColor=#cce5ff;flipH=1;flipV=0;direction=north;" vertex="1" parent="1">
           <mxGeometry x="-160" y="200" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-64" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-170" y="250" as="sourcePoint" />
-            <mxPoint x="440" y="340" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-100" y="260" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-66" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="458" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
