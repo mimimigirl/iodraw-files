@@ -168,8 +168,8 @@
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-63" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#36393d;fillColor=#cce5ff;flipH=1;flipV=0;direction=north;" vertex="1" parent="1">
           <mxGeometry x="-160" y="200" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-66" value="&lt;b&gt;8×8&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=default;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="250" width="40" height="30" as="geometry" />
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-66" value="&lt;b&gt;8×8&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="110" y="460" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
