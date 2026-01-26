@@ -163,7 +163,7 @@
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-76" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
           <mxGeometry x="315" y="320" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-90" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#36393d;fillColor=#ffcc99;flipH=1;flipV=0;direction=north;gradientColor=default;gradientDirection=east;" vertex="1" parent="1">
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-90" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=none;fillColor=#ffcc99;flipH=1;flipV=0;direction=north;gradientColor=default;gradientDirection=south;" vertex="1" parent="1">
           <mxGeometry x="100" y="220" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-91" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;flipH=1;flipV=0;direction=north;" vertex="1" parent="1">
