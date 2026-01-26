@@ -146,7 +146,7 @@
           <mxGeometry x="350" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-62" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;flipH=1;flipV=0;direction=north;" vertex="1" parent="1">
-          <mxGeometry x="-180" y="220" width="20" height="70" as="geometry" />
+          <mxGeometry x="-180" y="220" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-66" value="&lt;b&gt;&lt;font color=&quot;#000000&quot;&gt;8×8&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-190" y="245" width="40" height="30" as="geometry" />
@@ -261,9 +261,6 @@
             <mxPoint x="-170" y="310" as="sourcePoint" />
             <mxPoint x="440" y="330" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.977;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1" source="Zt8ZiUKbKBgDhXbs09eN-92" target="Zt8ZiUKbKBgDhXbs09eN-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
