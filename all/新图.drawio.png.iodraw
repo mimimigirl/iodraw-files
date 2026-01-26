@@ -279,10 +279,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-141" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;二维离散余弦变换&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="150" y="478" width="140" height="30" as="geometry" />
+          <mxGeometry x="227" y="478" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-142" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="478" width="140" height="22" as="geometry" />
+          <mxGeometry x="230" y="478" width="130" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
