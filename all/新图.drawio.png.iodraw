@@ -355,12 +355,6 @@
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-214" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="789" y="390" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-217" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontColor=#393C56;fillColor=#F2CC8F;entryX=0;entryY=0;entryDx=30;entryDy=40;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zt8ZiUKbKBgDhXbs09eN-147" target="Zt8ZiUKbKBgDhXbs09eN-212">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="490" as="sourcePoint" />
-            <mxPoint x="510" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-218" value="&lt;b&gt;Zig-Zag排列&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="650" y="320" width="90" height="30" as="geometry" />
         </mxCell>
