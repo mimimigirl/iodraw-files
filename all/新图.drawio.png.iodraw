@@ -356,7 +356,7 @@
           <mxGeometry x="824" y="390" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-218" value="&lt;b&gt;Zig-Zag排列&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="660" y="315" width="90" height="30" as="geometry" />
+          <mxGeometry x="664" y="405" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-219" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#000000;fontColor=#393C56;fillColor=#F2CC8F;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Zt8ZiUKbKBgDhXbs09eN-175">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
