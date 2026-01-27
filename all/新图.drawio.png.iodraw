@@ -246,7 +246,10 @@
           <mxGeometry x="440" y="670" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-145" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;flipH=0;flipV=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="90" y="240" width="20" height="50" as="geometry" />
+          <mxGeometry x="90" y="240" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-146" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;flipH=0;flipV=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="120" y="490" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
