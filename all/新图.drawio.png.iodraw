@@ -392,12 +392,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-223" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="490" as="sourcePoint" />
-            <mxPoint x="430" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
