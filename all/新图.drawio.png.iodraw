@@ -407,8 +407,8 @@
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-238" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot;&gt;.&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot;&gt;.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 15px;&quot;&gt;.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
           <mxGeometry x="385" y="290" width="30" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-239" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
-          <mxGeometry x="175" y="538" width="50" height="30" as="geometry" />
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-239" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;...&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#393C56;" vertex="1" parent="1">
+          <mxGeometry x="180" y="538" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
