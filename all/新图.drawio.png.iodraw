@@ -308,7 +308,16 @@
           <mxGeometry x="400" y="440" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zt8ZiUKbKBgDhXbs09eN-186" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
-          <mxGeometry x="800" y="640" width="20" height="20" as="geometry" />
+          <mxGeometry x="400" y="460" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-187" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="420" y="380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-188" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="420" y="400" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Zt8ZiUKbKBgDhXbs09eN-189" value="" style="whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#E07A5F;fontColor=#393C56;fillColor=#F2CC8F;" vertex="1" parent="1">
+          <mxGeometry x="830" y="670" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
